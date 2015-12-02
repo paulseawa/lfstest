@@ -1,0 +1,3 @@
+*.png filter=lfs -text
+*.jpg filter=lfs -text
+*.psd filter=lfs -text
